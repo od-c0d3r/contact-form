@@ -325,3 +325,28 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+.contact {
+  background-color: #1C1A19;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 30px;
+}
+
+#form-header {
+  padding-top:100px ;
+  text-align: center;
+  font-size: 2em;
+  width: 350px;
+  color: white;
+}
+
+.form {  
+  padding-top: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 250px;
+}
