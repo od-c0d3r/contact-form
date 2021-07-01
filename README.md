@@ -29,7 +29,7 @@ Introducing Linters
 
 # Authors
 
-👤NSABIMANA Emmanuel
+## Omar Rashad
 - GitHub: [od-c0d3r](https://github.com/od-c0d3r)
 - LinkedIn: [omarrashad](https://www.linkedin.com/in/omarrashad/)
 
